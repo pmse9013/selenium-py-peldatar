@@ -1,54 +1,23 @@
 {
-  "0e93b819cc2e8121f7281dc8e4eaaf78" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "65b6ac95230b960b",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/65b6ac95230b960b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1623610838120,
-        "stop" : 1623610838120,
-        "duration" : 0
-      }
-    } ]
-  },
-  "753cdf21aa3257d3e2249d83346a13e6" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d02479523de8fe7b",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/d02479523de8fe7b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1623610838117,
-        "stop" : 1623610838118,
-        "duration" : 1
-      }
-    } ]
-  },
   "77caee529814bb5616db6b28df37c87c" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "47bf0490f58cb36c",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/47bf0490f58cb36c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610843309,
+        "stop" : 1623610843309,
+        "duration" : 0
+      }
+    }, {
       "uid" : "ff29eb1aa34b195a",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/ff29eb1aa34b195a",
       "status" : "passed",
@@ -59,16 +28,54 @@
       }
     } ]
   },
+  "0e93b819cc2e8121f7281dc8e4eaaf78" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "73896e674f35c7cc",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/73896e674f35c7cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610843313,
+        "stop" : 1623610843313,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "65b6ac95230b960b",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/65b6ac95230b960b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610838120,
+        "stop" : 1623610838120,
+        "duration" : 0
+      }
+    } ]
+  },
   "0cc1fa42e1c19a0d3fd610d45c4ba65a" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "e78e13521e2dce9",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/e78e13521e2dce9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610843286,
+        "stop" : 1623610843286,
+        "duration" : 0
+      }
+    }, {
       "uid" : "2d780cb9d9ff6a2f",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/2d780cb9d9ff6a2f",
       "status" : "passed",
@@ -76,6 +83,35 @@
         "start" : 1623610838096,
         "stop" : 1623610838096,
         "duration" : 0
+      }
+    } ]
+  },
+  "753cdf21aa3257d3e2249d83346a13e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "4bb106bda709210f",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/4bb106bda709210f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610843311,
+        "stop" : 1623610843311,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d02479523de8fe7b",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/d02479523de8fe7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623610838117,
+        "stop" : 1623610838118,
+        "duration" : 1
       }
     } ]
   }
