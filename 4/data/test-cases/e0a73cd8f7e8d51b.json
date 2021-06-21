@@ -1,12 +1,12 @@
 {
-  "uid" : "a070541fd1eb2ec5",
-  "name" : "test_add_zero",
-  "fullName" : "testproject.test_mymath#test_add_zero",
-  "historyId" : "77caee529814bb5616db6b28df37c87c",
+  "uid" : "e0a73cd8f7e8d51b",
+  "name" : "test_add_string__expect_exception",
+  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
+  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
   "time" : {
-    "start" : 1624302689897,
-    "stop" : 1624302689898,
-    "duration" : 1
+    "start" : 1624302694210,
+    "stop" : 1624302694210,
+    "duration" : 0
   },
   "status" : "passed",
   "flaky" : false,
@@ -21,10 +21,10 @@
     "value" : "test_mymath"
   }, {
     "name" : "host",
-    "value" : "fv-az75-291"
+    "value" : "fv-az71-599"
   }, {
     "name" : "thread",
-    "value" : "3032-MainThread"
+    "value" : "3023-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -56,27 +56,27 @@
         "total" : 3
       },
       "items" : [ {
-        "uid" : "47bf0490f58cb36c",
-        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/47bf0490f58cb36c",
+        "uid" : "73896e674f35c7cc",
+        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/73896e674f35c7cc",
         "status" : "passed",
         "time" : {
-          "start" : 1623610843309,
-          "stop" : 1623610843309,
+          "start" : 1623610843313,
+          "stop" : 1623610843313,
           "duration" : 0
         }
       }, {
-        "uid" : "ff29eb1aa34b195a",
-        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/ff29eb1aa34b195a",
+        "uid" : "65b6ac95230b960b",
+        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/65b6ac95230b960b",
         "status" : "passed",
         "time" : {
-          "start" : 1623610838115,
-          "stop" : 1623610838115,
+          "start" : 1623610838120,
+          "stop" : 1623610838120,
           "duration" : 0
         }
       } ]
     },
     "tags" : [ ]
   },
-  "source" : "a070541fd1eb2ec5.json",
+  "source" : "e0a73cd8f7e8d51b.json",
   "parameterValues" : [ ]
 }
