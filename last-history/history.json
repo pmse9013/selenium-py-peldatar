@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "c65aef83b96e706c",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/c65aef83b96e706c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624302857829,
+        "stop" : 1624302857829,
+        "duration" : 0
+      }
+    }, {
       "uid" : "620f4dd7e10f0b96",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/620f4dd7e10f0b96",
       "status" : "passed",
@@ -69,11 +78,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "7f5555f3a32f6898",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/7f5555f3a32f6898",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624302857839,
+        "stop" : 1624302857839,
+        "duration" : 0
+      }
+    }, {
       "uid" : "408361020ca71592",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/408361020ca71592",
       "status" : "passed",
@@ -134,11 +152,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "2eac12466530da27",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/2eac12466530da27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624302857819,
+        "stop" : 1624302857819,
+        "duration" : 0
+      }
+    }, {
       "uid" : "8e879ee7814800db",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/8e879ee7814800db",
       "status" : "passed",
@@ -199,11 +226,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 6,
+      "passed" : 7,
       "unknown" : 0,
-      "total" : 6
+      "total" : 7
     },
     "items" : [ {
+      "uid" : "d311a2d0235dbb50",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/d311a2d0235dbb50",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624302857834,
+        "stop" : 1624302857835,
+        "duration" : 1
+      }
+    }, {
       "uid" : "2aad4be279895bc",
       "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/6//#testresult/2aad4be279895bc",
       "status" : "passed",
