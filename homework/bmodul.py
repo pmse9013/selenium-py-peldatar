@@ -1,1 +1,1 @@
-
+welcome = "Szép napot"
