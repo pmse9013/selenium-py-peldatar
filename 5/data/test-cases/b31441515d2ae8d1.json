@@ -1,0 +1,91 @@
+{
+  "uid" : "b31441515d2ae8d1",
+  "name" : "test_add_negative",
+  "fullName" : "testproject.test_mymath#test_add_negative",
+  "historyId" : "753cdf21aa3257d3e2249d83346a13e6",
+  "time" : {
+    "start" : 1624302794003,
+    "stop" : 1624302794004,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az42-485"
+  }, {
+    "name" : "thread",
+    "value" : "3059-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "224dffab83bb1b91",
+        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/4//#testresult/224dffab83bb1b91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624302694209,
+          "stop" : 1624302694209,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4bb106bda709210f",
+        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/4bb106bda709210f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623610843311,
+          "stop" : 1623610843311,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d02479523de8fe7b",
+        "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/3//#testresult/d02479523de8fe7b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1623610838117,
+          "stop" : 1623610838118,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b31441515d2ae8d1.json",
+  "parameterValues" : [ ]
+}
