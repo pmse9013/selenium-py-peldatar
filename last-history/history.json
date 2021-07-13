@@ -4,17 +4,26 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
-      "uid" : "a2bd44b2dcee299f",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/a2bd44b2dcee299f",
+      "uid" : "131bbce49b87daea",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/131bbce49b87daea",
       "status" : "passed",
       "time" : {
-        "start" : 1626168623884,
-        "stop" : 1626168623884,
+        "start" : 1626168627372,
+        "stop" : 1626168627373,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4cb8b5c1a24dad19",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/4cb8b5c1a24dad19",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626168620863,
+        "stop" : 1626168620863,
         "duration" : 0
       }
     }, {
@@ -150,18 +159,27 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
-      "uid" : "b7dfc4ef187ac63d",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/b7dfc4ef187ac63d",
+      "uid" : "839a6f17175a79a2",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/839a6f17175a79a2",
       "status" : "passed",
       "time" : {
-        "start" : 1626168623887,
-        "stop" : 1626168623887,
+        "start" : 1626168627376,
+        "stop" : 1626168627376,
         "duration" : 0
+      }
+    }, {
+      "uid" : "944433ad9a40c984",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/944433ad9a40c984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626168620865,
+        "stop" : 1626168620866,
+        "duration" : 1
       }
     }, {
       "uid" : "7b976994408ae3c7",
@@ -296,17 +314,26 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
-      "uid" : "915b62d5ee7a1988",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/915b62d5ee7a1988",
+      "uid" : "1de03aea10641711",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/1de03aea10641711",
       "status" : "passed",
       "time" : {
-        "start" : 1626168623882,
-        "stop" : 1626168623882,
+        "start" : 1626168627363,
+        "stop" : 1626168627364,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "f0e8212527d057c7",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/f0e8212527d057c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626168620856,
+        "stop" : 1626168620856,
         "duration" : 0
       }
     }, {
@@ -442,18 +469,27 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 15,
+      "passed" : 16,
       "unknown" : 0,
-      "total" : 15
+      "total" : 16
     },
     "items" : [ {
-      "uid" : "d7eb174e889ea4ad",
-      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/d7eb174e889ea4ad",
+      "uid" : "42ff8c66bd0c491",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/42ff8c66bd0c491",
       "status" : "passed",
       "time" : {
-        "start" : 1626168623885,
-        "stop" : 1626168623886,
-        "duration" : 1
+        "start" : 1626168627374,
+        "stop" : 1626168627374,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "84dc1b19758e572e",
+      "reportUrl" : "https://pmse9013.github.io/selenium-py-peldatar/13//#testresult/84dc1b19758e572e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626168620864,
+        "stop" : 1626168620864,
+        "duration" : 0
       }
     }, {
       "uid" : "367dbe0793b2a64e",
